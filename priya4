@@ -1,0 +1,11 @@
+kumar wants to know how the math functions are working in programming.could you please help him to write the program.
+import math
+a=float(input())
+b=int(input())
+c=int(input())
+d=int(input())
+print(math.floor(a))
+print(math.ceil(a))
+print(round(a))
+print(int(math.sqrt(b)))
+print(int(math.pow(c,d)))
