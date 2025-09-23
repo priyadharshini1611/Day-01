@@ -1,0 +1,7 @@
+Kumar wants to know how to display the numbers in programming.can you please guide him to display the numbers.
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+a=int(input())
+b=float(input())
+
+print(a)
+print("{:.2f}".format(b))
