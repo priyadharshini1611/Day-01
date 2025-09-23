@@ -1,0 +1,11 @@
+Sila wants to know how to calculate the values using math function.can you please guide her to perform the math Calculations. Note:use the Floor, Ceil, Sqrt, Pow.
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+import math
+a=float(input())
+b=int(input())
+c=int(input())
+d=int(input())
+print(math.floor(a))
+print(math.ceil(a))
+print(int(math.sqrt(b)))
+print(int(math.pow(c,d)))
